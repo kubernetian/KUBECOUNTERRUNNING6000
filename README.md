@@ -1,2 +1,3 @@
-# KUBECOUNTERRUNNING6000
-At it again with a Running pod counter. How cool is that?! 
+# KubeCounterRunning6000
+
+![KUBECOUNTERRUNNING6000](mediafiles/kubecounterrunning6000.jpg)
